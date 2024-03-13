@@ -1,10 +1,4 @@
-/* For JAVA project: *
 /out/
 /.idea/
 /*.iml
 
-/* For maven project:
-/target/
-/.idea/
-/*.iml
-*/
